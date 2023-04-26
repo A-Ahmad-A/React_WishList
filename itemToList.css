@@ -1,0 +1,17 @@
+.NoData label{
+    font-size: larger;
+    font-weight: 700;
+    color:teal;
+    background-color:thistle;
+}
+
+.NoData{
+    margin-left: 450px;
+    background-color: thistle;
+    height: 50px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid teal;
+}
